@@ -1,0 +1,6 @@
+%{
+  "earmark": {:hex, :earmark, "1.4.25", "43fd256e37f671528727745f0fc760227e16f40dced303216f766eade06b7b10", [:mix], [{:earmark_parser, "~> 1.4.25", [hex: :earmark_parser, repo: "hexpm", optional: false]}], "hexpm", "073c606ea4c3cc52920e8ae8ebe788c6af03d3e39782b25e5d14ceaa2f692998"},
+  "earmark_parser": {:hex, :earmark_parser, "1.4.25", "2024618731c55ebfcc5439d756852ec4e85978a39d0d58593763924d9a15916f", [:mix], [], "hexpm", "56749c5e1c59447f7b7a23ddb235e4b3defe276afc220a6227237f3efe83f51e"},
+  "expug": {:hex, :expug, "0.9.2", "f0fc3e85803db363667217ec6aa80061b9c5873134d08e1a83dbd2617e2f4cf6", [:mix], [], "hexpm", "218c2a337f876921c991a375cdfe87641b3fee4179b73798bf976cca2e5fd306"},
+  "phoenix_html": {:hex, :phoenix_html, "3.2.0", "1c1219d4b6cb22ac72f12f73dc5fad6c7563104d083f711c3fcd8551a1f4ae11", [:mix], [{:plug, "~> 1.5", [hex: :plug, repo: "hexpm", optional: true]}], "hexpm", "36ec97ba56d25c0136ef1992c37957e4246b649d620958a1f9fa86165f8bc54f"},
+}
